@@ -1,3 +1,17 @@
+![image](https://img.shields.io/badge/version-v1.0-green)
+2
+​
+3
+​
+4
+![image](https://img.shields.io/badge/author-liqiqiorz-yellow)
+5
+![image](https://img.shields.io/badge/build-passing-brightgreen)
+6
+​
+7
+
+
 author:liqiqiorz
 
 改自其它项目 整合vue-admin-master项目
